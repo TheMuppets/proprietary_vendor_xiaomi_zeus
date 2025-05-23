@@ -1,0 +1,116 @@
+[
+{
+    "parsedFileInfo":{
+        "rootFile":"/mnt/vendor/persist/sensors/registry/registry/bmp285_0_platform.pressure.fac_cal.bias",
+        "rootObject":"bmp285_0_platform.pressure.fac_cal.bias",
+        "verDepth":1,
+        "items":["x"]
+    },
+    "originalFileInfo":{
+        "rootFile":"/vendor/etc/sensors/config/sm8450_bmp285_0.json",
+        "rootObject":"bmp285_0_platform",
+        "verDepth":4,
+        "subRootObject1":".pressure",
+        "subRootObject2":".fac_cal",
+        "subRootObject3":".bias",
+        "items":["x"]
+    }
+},
+{   "parsedFileInfo":{
+        "rootFile":"/mnt/vendor/persist/sensors/registry/registry/lsm6dso_0_platform.accel.fac_cal.bias",
+        "rootObject":"lsm6dso_0_platform.accel.fac_cal.bias",
+        "verDepth":1,
+        "items":["x"]
+    },
+    "originalFileInfo":{
+        "rootFile":"/vendor/etc/sensors/config/sm8450_lsm6dso_0.json",
+        "rootObject":"lsm6dso_0_platform",
+        "verDepth":4,
+        "subRootObject1":".accel",
+        "subRootObject2":".fac_cal",
+        "subRootObject3":".bias",
+        "items":["x"]
+    }
+},
+{
+    "parsedFileInfo":{
+        "rootFile":"/mnt/vendor/persist/sensors/registry/registry/lsm6dso_0_platform.gyro.fac_cal.bias",
+        "rootObject":"lsm6dso_0_platform.gyro.fac_cal.bias",
+        "verDepth":1,
+        "items":["x"]
+    },
+    "originalFileInfo":{
+        "rootFile":"/vendor/etc/sensors/config/sm8450_lsm6dso_0.json",
+        "rootObject":"lsm6dso_0_platform",
+        "verDepth":4,
+        "subRootObject1":".gyro",
+        "subRootObject2":".fac_cal",
+        "subRootObject3":".bias",
+        "items":["x"]
+    }
+},
+{
+    "parsedFileInfo":{
+        "rootFile":"/mnt/vendor/persist/sensors/registry/registry/tmd3719_platform.als.fac_cal",
+        "rootObject":"tmd3719_platform.als.fac_cal",
+        "verDepth":1,
+        "items":["scale"]
+    },
+    "originalFileInfo":{
+        "rootFile":"/vendor/etc/sensors/config/sm8450_tmd3719.json",
+        "rootObject":"tmd3719_platform",
+        "verDepth":3,
+        "subRootObject1":".als",
+        "subRootObject2":".fac_cal",
+        "items":["scale"]
+    }
+},
+{
+    "parsedFileInfo":{
+        "rootFile":"/mnt/vendor/persist/sensors/registry/registry/tcs3408_platform.channel.fac_cal",
+        "rootObject":"tcs3408_platform.channel.fac_cal",
+        "verDepth":1,
+        "items":["data_cch"]
+    },
+    "originalFileInfo":{
+        "rootFile":"/vendor/etc/sensors/config/sm8450_tcs3408.json",
+        "rootObject":"tcs3408_platform",
+        "verDepth":3,
+        "subRootObject1":".channel",
+        "subRootObject2":".fac_cal",
+        "items":["data_cch"]
+    }
+},
+{
+    "parsedFileInfo":{
+        "rootFile":"/mnt/vendor/persist/sensors/registry/registry/gs1602_platform.channel.fac_cal",
+        "rootObject":"gs1602_platform.channel.fac_cal",
+        "verDepth":1,
+        "items":["darkbase_r"]
+    },
+    "originalFileInfo":{
+        "rootFile":"/vendor/etc/sensors/config/sm8450_gs1602.json",
+        "rootObject":"gs1602_platform",
+        "verDepth":3,
+        "subRootObject1":".channel",
+        "subRootObject2":".fac_cal",
+        "items":["darkbase_r"]
+    }
+},
+{
+    "parsedFileInfo":{
+        "rootFile":"/mnt/vendor/persist/sensors/registry/registry/gs1602_platform.als.fac_cal",
+        "verDepth":1,
+        "rootObject":"gs1602_platform.als.fac_cal",
+        "items":["lux_k1"]
+    },
+    "originalFileInfo":{
+        "rootFile":"/vendor/etc/sensors/config/sm8450_gs1602.json",
+        "verDepth":3,
+        "rootObject":"gs1602_platform",
+        "subRootObject1":".als",
+        "subRootObject2":".fac_cal",
+        "items":["lux_k1"]
+    }
+}
+]
