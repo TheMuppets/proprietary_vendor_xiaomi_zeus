@@ -714,6 +714,7 @@ PRODUCT_PACKAGES += \
     com.xiaomi.node.misv3 \
     com.xiaomi.node.smooth_transition \
     libdepthmapwrapper_secure \
+    libQnnHtpAltPrepV69Skel_camera \
     libQnnHtpAltPrepV69Stub_camera \
     com.xiaomi.plugin.anchor \
     com.xiaomi.plugin.arcsoftsll \
