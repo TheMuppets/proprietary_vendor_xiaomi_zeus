@@ -3434,8 +3434,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
-    name: "libQnnHtpAltPrepV69Skel_camera",
-    stem: "libQnnHtpAltPrepV69Skel",
+    name: "libQnnHtpAltPrepV69Skel",
     owner: "xiaomi",
     strip: {
         none: true,
@@ -3455,8 +3454,7 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
-    name: "libQnnHtpAltPrepV69Stub_camera",
-    stem: "libQnnHtpAltPrepV69Stub",
+    name: "libQnnHtpAltPrepV69Stub",
     owner: "xiaomi",
     strip: {
         none: true,
